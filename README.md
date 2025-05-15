@@ -8,7 +8,8 @@ Borrow from the idea of `fighting fire with fire', we propose DMAC which employs
 We make experimental evaluation of effectiveness of DMAC on four environments (StarCraft II, Coop Navi, Predator-Prey, Traffic Junction) with promising performance, outperforming the SOTA baseline.
 
 The overall structure is shown in the figure below:
-![图片](images/overview.png)
+<!-- ![图片](images/overview.png) -->
+<img src="images/overview.png" alt="图片" width="60%" />
 
 The key step is identifying the critical communication channels, which is shown in the figure below:
 ![图片](images/adv.png)
