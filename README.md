@@ -1,5 +1,5 @@
 # <font size=6>DMAC</font>
-This repository contains data and code for the paper
+This repository contains data and code for the paper 《Robust Multi-agent Communication Based on Decentralization-Oriented Adversarial Training》
 
 # Overview
 
